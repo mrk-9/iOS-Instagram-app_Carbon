@@ -1,0 +1,57 @@
+/*
+  Localizable.strings
+  Carbon
+
+  Created by Mobile on 9/20/16.
+  Copyright © 2016 Robert. All rights reserved.
+*/
+
+"Edit" = "Modifica";
+
+"Done" = "Fatto";
+
+"DELETE" = "CANCELLA";
+
+"DELETE %d" = "CANCELLA %d";
+
+"   Scheduled   " = "   Programmato   ";
+
+"   Added   " = "   Aggiunto   ";
+
+"   Reposted   " = "   Rippublicato   ";
+
+"%d likes  %d comments" = "%d mi piace  %d commenti";
+
+"Introduction" = "Introduzione";
+
+"All Photos" = "Tutte le Foto";
+
+"%ld years later" = "%ld anni dopo";
+
+"%ld months later" = "%ld mesi later";
+
+"%ld weeks later" = "%ld settimane dopo";
+
+"%ld days later" = "%ld giorni dopo";
+
+"%ld years ago" = "%ld anni fa";
+
+"%ld months ago" = "%ld mesi fa";
+
+"%ld weeks ago" = "%ld settimane fa";
+
+"%ld days ago" = "%ld giorni fa";
+
+"Yesterday" = "Ieri";
+
+"Today" = "Oggi";
+
+"Tomorrow" = "Domani";
+
+"%d likes" = "%d mi piace";
+
+"Reminder" = "Promemoria";
+
+"Repost your instagram picture now." = "Ripubblicare la tua foto instagram ora.";
+
+"PURCHASED" = "ACQUISTATO";

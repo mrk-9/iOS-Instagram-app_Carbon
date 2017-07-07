@@ -1,0 +1,57 @@
+/*
+  Localizable.strings
+  Carbon
+
+  Created by Mobile on 9/20/16.
+  Copyright © 2016 Robert. All rights reserved.
+*/
+
+"Edit" = "Редактировать";
+
+"Done" = "Редактировать";
+
+"DELETE" = "Удалить";
+
+"DELETE %d" = "Удалить %d";
+
+"   Scheduled   " = "   запланированный   ";
+
+"   Added   " = "   добавленный   ";
+
+"   Reposted   " = "   репостeт   ";
+
+"%d likes  %d comments" = "%d нравится  %d комментарий";
+
+"Introduction" = "Введение";
+
+"All Photos" = "Все фотографии";
+
+"%ld years later" = "%ld лет спустя";
+
+"%ld months later" = "%ld месяцев спустя";
+
+"%ld weeks later" = "%ld недель спустя";
+
+"%ld days later" = "%ld дней спустя";
+
+"%ld years ago" = "%ld лет назад";
+
+"%ld months ago" = "%ld месяцев назад";
+
+"%ld weeks ago" = "%ld недель назад";
+
+"%ld days ago" = "%ld дней назад";
+
+"Yesterday" = "Вчера";
+
+"Today" = "Cегодня";
+
+"Tomorrow" = "Завтра";
+
+"%d likes" = "%d нравится";
+
+"Reminder" = "напоминание";
+
+"Repost your instagram picture now." = "Repost вашу Instagram картину прямо сейчас.";
+
+"PURCHASED" = "КУПЛЕНЫ";

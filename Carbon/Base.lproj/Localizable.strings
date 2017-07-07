@@ -1,0 +1,57 @@
+/*
+  Localizable.strings
+  Carbon
+
+  Created by Mobile on 9/20/16.
+  Copyright © 2016 Robert. All rights reserved.
+*/
+
+"Edit" = "Edit";
+
+"Done" = "Done";
+
+"DELETE" = "DELETE";
+
+"DELETE %d" = "DELETE %d";
+
+"   Scheduled   " = "   Scheduled   ";
+
+"   Added   " = "   Added   ";
+
+"   Reposted   " = "   Reposted   ";
+
+"%d likes  %d comments" = "%d likes  %d comments";
+
+"Introduction" = "Introduction";
+
+"All Photos" = "All Photos";
+
+"%ld years later" = "%ld years later";
+
+"%ld months later" = "%ld months later";
+
+"%ld weeks later" = "%ld weeks later";
+
+"%ld days later" = "%ld days later";
+
+"%ld years ago" = "%ld years ago";
+
+"%ld months ago" = "%ld months ago";
+
+"%ld weeks ago" = "%ld weeks ago";
+
+"%ld days ago" = "%ld days ago";
+
+"Yesterday" = "Yesterday";
+
+"Today" = "Today";
+
+"Tomorrow" = "Tomorrow";
+
+"%d likes" = "%d likes";
+
+"Reminder" = "Reminder";
+
+"Repost your instagram picture now." = "Repost your instagram picture now.";
+
+"PURCHASED" = "PURCHASED";
